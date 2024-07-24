@@ -1,6 +1,8 @@
 import { createApi,fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 import { createConnection } from "mongoose";
 
+console.log("Nithin")
+
 
 const options = {
     method: 'GET',
